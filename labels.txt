@@ -1,0 +1,5 @@
+0 cabbage
+1 Tomato
+2 cucumber
+3 Potato
+4 carrot
